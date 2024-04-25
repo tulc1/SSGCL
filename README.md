@@ -27,7 +27,7 @@ python main.py --lr 1e-5 --lambda1 0.4 --temp1 0.2 --lambda2 1.0 --temp2 1.0 --r
 ```
 
 * Tmall
-* 
+
 ```
 python main.py --lr 5e-5 --lambda1 0.8 --temp1 0.2 --lambda2 1.0 --temp2 2.0 --reg 1e-3 --alpha 2. --hyper 128 --gnn_layer 2 --data tmall
 ```
