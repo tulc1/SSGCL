@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="83e818ad-47b4-4dd2-812a-028d926eb4a1" name="LightGCL_v30">
+        <fileTransfer accessType="SFTP" host="10.132.100.45" port="12222" sshConfigId="97f1f9a0-9cde-43bb-85f8-c54c974c8bcc" sshConfig="root@10.132.100.45:12222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
